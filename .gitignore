@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Attendance records
+Attendance_*.csv
+
+# Personal face images
+known_faces/*.png
+known_faces/*.jpg
+known_faces/*.jpeg
+
+# Operating System files
+.DS_Store
+Thumbs.db
